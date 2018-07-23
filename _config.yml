@@ -1,10 +1,10 @@
 # Site
-title:          JBlog
+title:          Patrick O'Connor
 bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+description:    "It's time to build stuff and chew bubble gum, and I'm all outta gum!"
 picture:        'assets/img/Patrick.png'
 locale:         en_US
-url:            https://patoconnor43.github.io/
+url:            https://patoconnor43.github.io
 
 
 # Jekyll
@@ -23,7 +23,7 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#email:
+email: patoconnor43@gmail.com
 twitter: patoconnor43
 # facebook: username
 #google:
