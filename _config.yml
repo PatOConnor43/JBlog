@@ -4,7 +4,7 @@ bio:            'Just a simple Jekyll theme'
 description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
 picture:        'assets/img/profile.png'
 locale:         en_US
-url:            https://alperenbozkurt.github.io/JBlog
+url:            https://patoconnor43.github.io/
 
 
 # Jekyll
@@ -54,10 +54,6 @@ youtube: username
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
 # paginate_path: "blog/:num/"
-
-
-# Comments
-disqus_shortname: alperenbozkurt-net
 
 
 # Gems
